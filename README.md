@@ -168,7 +168,6 @@ Alle Erkenntnisse aus diesem Projekt fließen direkt in den **Self-Balancing Rob
 | Pappe zu instabil | Stabiles Holz/Acryl Chassis |
 | Manuelle Beobachtung | Echtzeit Telemetrie im Browser |
 
-👉 **[Self-Balancing Robot →](../Self-Balancing-Robot)**
 
 ---
 
