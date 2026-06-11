@@ -14,7 +14,13 @@ Mein eigentliches Ziel war der Aufbau eines **selbst-balancierenden Roboters** (
 
 ## 🎬 Demo Video
 
-*(Video wird hier eingebettet)*
+
+
+https://github.com/user-attachments/assets/48ad7bdf-49af-4517-8e2d-1fe7c05d257f
+
+
+
+
 
 ---
 
