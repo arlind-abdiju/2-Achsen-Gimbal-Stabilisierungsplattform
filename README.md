@@ -1,0 +1,1 @@
+# -2-Achsen-Gimbal-Stabilisierungsplattform
