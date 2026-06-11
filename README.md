@@ -199,6 +199,3 @@ Maschinenbau M.Sc. | Schwerpunkt Mechatronik
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](https://www.linkedin.com/in/arlindabdiju/)
 
----
-
-> *"Der Wert dieses Projekts liegt nicht im perfekten Endprodukt – sondern in den Erkenntnissen die daraus entstanden sind und direkt in ein komplexeres System eingeflossen sind. Genau so funktioniert ingenieurmäßige Entwicklung."*
